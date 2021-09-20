@@ -17,7 +17,7 @@ navbar-links:
   About Me: "aboutme"
   AI Portfolio:
     - Airbnb Amenity Detection: "2021-07-05-airbnb-clone-project-amenity-detection"
-
+    - test: "test"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
